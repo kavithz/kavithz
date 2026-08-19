@@ -56,35 +56,51 @@ I enjoy building practical software and improving my skills through real project
 
 ### Skill Level
 
-Java ████████████████░░░░ 80%
-Python ██████████████░░░░░░ 70%
-JavaScript ██████████████░░░░░░ 70%
-React █████████████░░░░░░░ 65%
-Flutter / Dart ██████████████░░░░░░ 70%
-Node.js / Express █████████████░░░░░░░ 65%
-PostgreSQL ████████████░░░░░░░░ 60%
-
-
+```
+Java                ████████████████░░░░  80%
+Python              ██████████████░░░░░░  70%
+JavaScript          ██████████████░░░░░░  70%
+React               █████████████░░░░░░░  65%
+Flutter / Dart      ██████████████░░░░░░  70%
+Node.js / Express   █████████████░░░░░░░  65%
+PostgreSQL          ████████████░░░░░░░░  60%
+```
 
 ---
 
 ### Featured Projects
 
-**[SmartHarvest](https://github.com/kavithz/SDGP_SmartHarvest)**
+**SmartHarvest**
+
 A full-stack mobile application for farmers, buyers and agriculture officers, with crop management, market prices, marketplace features and communication.
+
 `Flutter` `Dart` `Firebase` `Flask` `AI/ML`
 
-**[Recruitment Management System](https://github.com/kavithz/Recruitment-Management-System)**
+🔗 [View Repository](https://github.com/kavithz/SDGP_SmartHarvest)
+
+**Recruitment Management System**
+
 A web application for managing candidates during the recruitment process.
+
 `React` `Node.js` `Express.js` `PostgreSQL`
 
-**[User Management System](https://github.com/kavithz/User-Management-System)**
+🔗 [View Repository](https://github.com/kavithz/Recruitment-Management-System)
+
+**User Management System**
+
 A full-stack web application for secure user registration, login and user management, with protected access to search, manage and update user records.
+
 `React` `Node.js` `Express` `PostgreSQL` `JWT` `bcrypt`
 
-**[SDG 4 – Quality Education Web Platform](https://github.com/kavithz/Web-Development)**
+🔗 [View Repository](https://github.com/kavithz/User-Management-System)
+
+**SDG 4 – Quality Education Web Platform**
+
 A web platform built to support quality education, focused on simple content organization and responsive design.
+
 `HTML` `CSS` `Responsive Design`
+
+🔗 [View Repository](https://github.com/kavithz/Web-Development)
 
 ---
 
@@ -112,4 +128,3 @@ I'm currently focused on improving my software engineering skills and building p
 </p>
 
 <p align="center"><i>Thanks for visiting my profile!</i></p>
-
