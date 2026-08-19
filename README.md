@@ -54,16 +54,30 @@ I enjoy building practical software and improving my skills through real project
 
 ---
 
-### GitHub Statistics
+### Skill Level
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kavithz&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kavithz&layout=compact&hide_border=true&theme=default" />
-</p>
+*(self-rated — adjust the numbers to match your own honest level)*
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kavithz&hide_border=true&theme=default" />
-</p>
+**Java**
+![](https://progress-bar.dev/75)
+
+**Python**
+![](https://progress-bar.dev/70)
+
+**JavaScript**
+![](https://progress-bar.dev/70)
+
+**React**
+![](https://progress-bar.dev/65)
+
+**Flutter / Dart**
+![](https://progress-bar.dev/70)
+
+**Node.js / Express.js**
+![](https://progress-bar.dev/65)
+
+**PostgreSQL**
+![](https://progress-bar.dev/60)
 
 ---
 
