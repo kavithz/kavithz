@@ -57,12 +57,12 @@ I enjoy building practical software and improving my skills through real project
 ### GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kavithz&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavithz&layout=compact&hide_border=true&theme=default" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kavithz&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kavithz&layout=compact&hide_border=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavithz&hide_border=true&theme=default" />
+  <img src="https://streak-stats.demolab.com/?user=kavithz&hide_border=true&theme=default" />
 </p>
 
 ---
