@@ -56,46 +56,33 @@ I enjoy building practical software and improving my skills through real project
 
 ### Skill Level
 
-*(self-rated — adjust the numbers to match your own honest level)*
+Java ████████████████░░░░ 80%
+Python ██████████████░░░░░░ 70%
+JavaScript ██████████████░░░░░░ 70%
+React █████████████░░░░░░░ 65%
+Flutter / Dart ██████████████░░░░░░ 70%
+Node.js / Express █████████████░░░░░░░ 65%
+PostgreSQL ████████████░░░░░░░░ 60%
 
-**Java**
-![](https://progress-bar.dev/75)
 
-**Python**
-![](https://progress-bar.dev/70)
-
-**JavaScript**
-![](https://progress-bar.dev/70)
-
-**React**
-![](https://progress-bar.dev/65)
-
-**Flutter / Dart**
-![](https://progress-bar.dev/70)
-
-**Node.js / Express.js**
-![](https://progress-bar.dev/65)
-
-**PostgreSQL**
-![](https://progress-bar.dev/60)
 
 ---
 
 ### Featured Projects
 
+**[SmartHarvest](https://github.com/kavithz/SDGP_SmartHarvest)**
+A full-stack mobile application for farmers, buyers and agriculture officers, with crop management, market prices, marketplace features and communication.
+`Flutter` `Dart` `Firebase` `Flask` `AI/ML`
+
 **[Recruitment Management System](https://github.com/kavithz/Recruitment-Management-System)**
 A web application for managing candidates during the recruitment process.
 `React` `Node.js` `Express.js` `PostgreSQL`
 
-**SmartHarvest**
-A full-stack mobile application for farmers, buyers and agriculture officers, with crop management, market prices, marketplace features and communication.
-`Flutter` `Dart` `Firebase` `Flask` `AI/ML`
-
-**User Management System**
+**[User Management System](https://github.com/kavithz/User-Management-System)**
 A full-stack web application for secure user registration, login and user management, with protected access to search, manage and update user records.
 `React` `Node.js` `Express` `PostgreSQL` `JWT` `bcrypt`
 
-**SDG 4 – Quality Education Web Platform**
+**[SDG 4 – Quality Education Web Platform](https://github.com/kavithz/Web-Development)**
 A web platform built to support quality education, focused on simple content organization and responsive design.
 `HTML` `CSS` `Responsive Design`
 
@@ -125,3 +112,4 @@ I'm currently focused on improving my software engineering skills and building p
 </p>
 
 <p align="center"><i>Thanks for visiting my profile!</i></p>
+
