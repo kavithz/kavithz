@@ -68,42 +68,6 @@ PostgreSQL          ████████████░░░░░░░░
 
 ---
 
-### Featured Projects
-
-**SmartHarvest**
-
-A full-stack mobile application for farmers, buyers and agriculture officers, with crop management, market prices, marketplace features and communication.
-
-`Flutter` `Dart` `Firebase` `Flask` `AI/ML`
-
-🔗 [View Repository](https://github.com/kavithz/SDGP_SmartHarvest)
-
-**Recruitment Management System**
-
-A web application for managing candidates during the recruitment process.
-
-`React` `Node.js` `Express.js` `PostgreSQL`
-
-🔗 [View Repository](https://github.com/kavithz/Recruitment-Management-System)
-
-**User Management System**
-
-A full-stack web application for secure user registration, login and user management, with protected access to search, manage and update user records.
-
-`React` `Node.js` `Express` `PostgreSQL` `JWT` `bcrypt`
-
-🔗 [View Repository](https://github.com/kavithz/User-Management-System)
-
-**SDG 4 – Quality Education Web Platform**
-
-A web platform built to support quality education, focused on simple content organization and responsive design.
-
-`HTML` `CSS` `Responsive Design`
-
-🔗 [View Repository](https://github.com/kavithz/Web-Development)
-
----
-
 ### What I'm Working On
 
 I'm currently focused on improving my software engineering skills and building practical full-stack and mobile applications through real projects.
