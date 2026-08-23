@@ -2,10 +2,7 @@
 <h3 align="center">Software Developer | Software Engineering Undergraduate</h3>
 
 <p align="center">
-Software Engineering undergraduate at the University of Westminster and studying at IIT Sri Lanka.
-</p>
-
-<p align="center">
+Software Engineering undergraduate at the University of Westminster and studying at IIT Sri Lanka.<br>
 I enjoy building practical software and improving my skills through real projects in web and mobile development.
 </p>
 
