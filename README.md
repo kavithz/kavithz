@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Software Engineering Undergraduate</h3>
 
 <p align="center">
-Software Engineering undergraduate at the University of Westminster, studying at IIT Sri Lanka.
+Software Engineering undergraduate at the University of Westminster and studying at IIT Sri Lanka.
 I enjoy building practical software and improving my skills through real projects in web and mobile development.
 </p>
 
@@ -22,7 +22,7 @@ I enjoy building practical software and improving my skills through real project
 ### About Me
 
 - 🎓 Software Engineering undergraduate at the **University of Westminster**, studying at **IIT Sri Lanka**
-- 💻 Interested in web development, mobile app development, and software development
+- 💻 Interested in web development, mobile app development and software development
 - 📋 Also interested in project management
 - 🌱 I enjoy building practical software and improving my programming skills through real projects
 
