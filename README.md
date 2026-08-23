@@ -3,6 +3,9 @@
 
 <p align="center">
 Software Engineering undergraduate at the University of Westminster and studying at IIT Sri Lanka.
+</p>
+
+<p align="center">
 I enjoy building practical software and improving my skills through real projects in web and mobile development.
 </p>
 
