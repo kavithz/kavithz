@@ -11,7 +11,6 @@ I enjoy building practical software and improving my skills through real project
 </p>
 
 <p align="center">
-  <a href="https://github.com/kavithz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/kavith-palansuriya-5545b3280"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://kavith-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2f6fe4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:samslogkavith@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -21,18 +20,15 @@ I enjoy building practical software and improving my skills through real project
 
 ### About Me
 
-### Software Development
+- 💻 **Software Development**  
+  I can build web and mobile applications from start to finish. I turn ideas into working software and solve real problems with code.
 
-I can build web and mobile applications from start to finish. I turn ideas into working software and solve real problems with code.
+- 🧹 **Clean & Organized Code**  
+  I learn new tools and concepts quickly. I write clean and organized code that is easy to read and understand. I focus on creating simple and effective solutions while following good coding best practices.
 
-### Clean & Organized Code
-
-I learn new tools and concepts quickly. I write clean and organized code that is easy to read and understand. I focus on creating simple and effective solutions while following good coding best practices.
-
-### Team Collaboration
-
-I work well in teams. I use tools like Git, ClickUp and Jira to manage tasks and stay organized. I am always looking to improve my skills and take on new challenges through real projects.
-
+- 🤝 **Team Collaboration**  
+  I work well in teams. I use tools like Git, ClickUp and Jira to manage tasks and stay organized. I am always looking to improve my skills and take on new challenges through real projects.
+  
 ---
 
 ### Tech Stack
@@ -81,12 +77,13 @@ I'm currently focused on improving my software engineering skills and building p
 
 ### Currently Learning
 
-- Full-stack development
+- Full-stack web development
 - React & Node.js
-- PostgreSQL
-- Software engineering practices
-- Mobile application development
-
+- REST API development and integration
+- Database design and management
+- Software architecture and best practices
+- Building scalable and maintainable applications
+  
 ---
 
 ### Let's Connect
@@ -94,7 +91,6 @@ I'm currently focused on improving my software engineering skills and building p
 <p align="center">
   <a href="mailto:samslogkavith@gmail.com">Email</a> ·
   <a href="https://linkedin.com/in/kavith-palansuriya-5545b3280">LinkedIn</a> ·
-  <a href="https://github.com/kavithz">GitHub</a> ·
   <a href="https://kavith-portfolio.vercel.app">Portfolio</a>
 </p>
 
