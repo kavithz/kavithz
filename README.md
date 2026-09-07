@@ -59,17 +59,22 @@ I enjoy building practical software and improving my skills through real project
 
 ### Skill Level
 
-```
-Java                ████████████████░░░░  
-Python              ██████████████░░░░░░  
-JavaScript          ██████████████░░░░░░  
-React               █████████████░░░░░░░ 
-Flutter / Dart      ██████████████░░░░░░  
-Node.js / Express   █████████████░░░░░░░  
-PostgreSQL          ████████████░░░░░░░░  
+```text
+Java                ████████████████░░░░
+Python              ██████████████░░░░░░
+JavaScript          ██████████████░░░░░░
+TypeScript          █████████████░░░░░░░
+React               █████████████░░░░░░░
+Next.js             █████████████░░░░░░░
+Flutter / Dart      ██████████████░░░░░░
+Node.js / Express   █████████████░░░░░░░
+Prisma              ████████████░░░░░░░░
+PostgreSQL          ████████████░░░░░░░░
+SQL                 ████████████░░░░░░░░
+Git / GitHub        ██████████████░░░░░░
+REST APIs           █████████████░░░░░░░
 ```
 
----
 
 ### What I'm Working On
 
