@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kavith Palansuriya</h1>
-<h3 align="center">Software Developer | Software Engineering Undergraduate</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6FE4&center=true&vCenter=true&width=500&lines=Software+Developer;Software+Engineering+Undergraduate;Web+%26+Mobile+Developer" alt="Typing SVG" />
+</p>
 
 <p align="center">
 Software Engineering undergraduate at the University of Westminster and studying at IIT Sri Lanka.<br>
@@ -14,6 +17,10 @@ I enjoy building practical software and improving my skills through real project
   <a href="https://linkedin.com/in/kavith-palansuriya-5545b3280"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://kavith-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2f6fe4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:samslogkavith@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </p>
 
 ---
