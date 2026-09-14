@@ -60,6 +60,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,sqlite,mysql,redis" />
 
 **Tools**
+
 <img src="https://skillicons.dev/icons?i=git,github,jira,vscode,idea,postman,docker" /> 
 
 **Concepts**
