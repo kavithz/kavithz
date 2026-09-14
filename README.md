@@ -83,6 +83,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2F6FE4&center=true&vCenter=true&width=600&lines=Improving+my+software+engineering+skills;Building+full-stack+web+apps;Building+mobile+apps" alt="Working on Typing SVG" />
 </p>
 
+---
+
 I'm currently focused on improving my software engineering skills and building practical full-stack and mobile applications through real projects.
 
 ### Currently Learning
