@@ -65,11 +65,9 @@
 
 **Concepts**
 
-<img src="https://img.shields.io/badge/OOP-2F6FE4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MVC-2F6FE4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Structures-2F6FE4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST%20APIs-2F6FE4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-2F6FE4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/MVC-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Structures-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/REST%20APIs-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/System%20Design-2F6FE4?style=for-the-badge" />
+
+
 
 ---
 
