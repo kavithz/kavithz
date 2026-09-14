@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=140&lines=root%40kavithz%3A~%24+whoami;Kavith+Palansuriya;root%40kavithz%3A~%24+cat+role.txt;Software+Developer+%7C+SE+Undergraduate;root%40kavithz%3A~%24+access+granted+%E2%9C%93" alt="Hacker Terminal" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kavith Palansuriya</h1>
 
 <p align="center">
@@ -61,23 +65,6 @@ I enjoy building practical software and improving my skills through real project
 <img src="https://skillicons.dev/icons?i=git,github,jira" />
 
 **Concepts:** OOP · MVC · Data Structures
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavithz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kavith's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavithz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kavithz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavithz&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 ---
 
