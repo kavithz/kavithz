@@ -26,8 +26,6 @@
 
 ### About Me
 
-<img src="https://raw.githubusercontent.com/anmol098/anmol098/master/gifs/Coding.gif" width="280" align="right" />
-
 - 💻 **Software Development**  
   I can build web and mobile applications from start to finish. I turn ideas into working software and solve real problems with code.
 
