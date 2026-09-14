@@ -5,7 +5,12 @@
 <h1 align="center">Hi 👋, I'm Kavith Palansuriya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6FE4&center=true&vCenter=true&width=500&lines=Software+Developer;Software+Engineering+Undergraduate;Web+%26+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6FE4&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Developer;Software+Engineering+Undergraduate;Web+%26+Mobile+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+Software Engineering undergraduate at the University of Westminster and studying at IIT Sri Lanka.<br>
+I enjoy building practical software and improving my skills through real projects in web and mobile development.
 </p>
 
 <p align="center">
@@ -105,4 +110,8 @@ I'm currently focused on improving my software engineering skills and building p
   <a href="https://kavith-portfolio.vercel.app">Portfolio</a>
 </p>
 
-<p align="center"><i>Thanks for visiting my profile!</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=2F6FE4&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;Let's+build+something+together+%F0%9F%9A%80" alt="Farewell Typing SVG" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F6FE4&height=120&section=footer" width="100%" />
