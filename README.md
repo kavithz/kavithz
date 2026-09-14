@@ -62,8 +62,18 @@
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,jira,vscode,idea,postman,docker" />
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 
-**Concepts:** OOP · MVC · Data Structures · REST APIs · System Design
+**Concepts**
+
+<img src="https://img.shields.io/badge/OOP-2F6FE4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MVC-2F6FE4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Structures-2F6FE4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-2F6FE4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-2F6FE4?style=for-the-badge" />
 
 ---
 
