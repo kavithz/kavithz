@@ -9,11 +9,6 @@
 </p>
 
 <p align="center">
-Software Engineering undergraduate at the University of Westminster and studying at IIT Sri Lanka.<br>
-I enjoy building practical software and improving my skills through real projects in web and mobile development.
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavithz&label=Profile%20Views&color=2f6fe4&style=flat" alt="Profile views" />
 </p>
 
