@@ -26,6 +26,8 @@
 
 ### About Me
 
+<img src="https://raw.githubusercontent.com/anmol098/anmol098/master/gifs/Coding.gif" width="280" align="right" />
+
 - 💻 **Software Development**  
   I can build web and mobile applications from start to finish. I turn ideas into working software and solve real problems with code.
 
@@ -34,32 +36,34 @@
 
 - 🤝 **Team Collaboration**  
   I work well in teams. I use tools like Git, ClickUp and Jira to manage tasks and stay organized. I am always looking to improve my skills and take on new challenges through real projects.
-  
+
+<br clear="right"/>
+
 ---
 
 ### Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,dart" />
+<img src="https://skillicons.dev/icons?i=java,python,js,dart,ts,kotlin" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,flutter,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,flutter,figma,tailwind,bootstrap" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,django" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,sqlite,mysql,redis" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,jira" />
+<img src="https://skillicons.dev/icons?i=git,github,jira,vscode,idea,postman,docker" />
 
-**Concepts:** OOP · MVC · Data Structures
+**Concepts:** OOP · MVC · Data Structures · REST APIs · System Design
 
 ---
 
@@ -69,12 +73,19 @@
   <img src="https://raw.githubusercontent.com/kavithz/kavithz/main/skill-level.svg" alt="Skill level bars" width="700" />
 </p>
 
-
 ### What I'm Working On
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2F6FE4&center=true&vCenter=true&width=600&lines=Improving+my+software+engineering+skills;Building+full-stack+web+apps;Building+mobile+apps" alt="Working on Typing SVG" />
+</p>
 
 I'm currently focused on improving my software engineering skills and building practical full-stack and mobile applications through real projects.
 
 ### Currently Learning
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2F6FE4&center=true&vCenter=true&width=600&lines=Full-stack+web+development;React+%26+Node.js;REST+API+development+%26+integration;Database+design+%26+management;Software+architecture+%26+best+practices;Building+scalable+applications" alt="Currently Learning Typing SVG" />
+</p>
 
 - Full-stack web development
 - React & Node.js
@@ -82,7 +93,7 @@ I'm currently focused on improving my software engineering skills and building p
 - Database design and management
 - Software architecture and best practices
 - Building scalable and maintainable applications
-  
+
 ---
 
 ### Let's Connect
