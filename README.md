@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=140&lines=root%40kavithz%3A~%24+whoami;Kavith+Palansuriya;root%40kavithz%3A~%24+cat+role.txt;Software+Developer+%7C+SE+Undergraduate;root%40kavithz%3A~%24+access+granted+%E2%9C%93" alt="Hacker Terminal" />
+  <img src="https://raw.githubusercontent.com/kavithz/kavithz/main/hacker-banner.svg" alt="Hacker at laptop" width="800" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kavith Palansuriya</h1>
