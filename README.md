@@ -104,14 +104,6 @@ I'm currently focused on improving my software engineering skills and building p
 
 ---
 
-### Let's Connect
-
-<p align="center">
-  <a href="mailto:samslogkavith@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/kavith-palansuriya-5545b3280">LinkedIn</a> ·
-  <a href="https://kavith-portfolio.vercel.app">Portfolio</a>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=2F6FE4&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;Let's+build+something+together+%F0%9F%9A%80" alt="Farewell Typing SVG" />
 </p>
