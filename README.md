@@ -64,7 +64,8 @@ I'm currently focused on improving my software engineering skills and building p
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=2F6FE4&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;Let's+build+something+together+%F0%9F%9A%80" alt="Farewell Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=2F6FE4&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!" 
+    alt="Farewell Typing SVG" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F6FE4&height=120&section=footer" width="100%" />
