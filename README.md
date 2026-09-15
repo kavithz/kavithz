@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F6FE4&height=120&section=footer" width="100%" />
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/kavithz/kavithz/main/hacker-banner.svg" alt="Hacker at laptop" width="800" />
 </p>
