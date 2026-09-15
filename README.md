@@ -8,27 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6FE4&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Developer;UI+%26+UX+Developer;Software+Engineering+Undergraduate;Web+%26+Mobile+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-</p>
-
----
-
 <img src="https://skillicons.dev/icons?i=java,python,js,dart,ts,kotlin,html,css,react,vite,flutter,figma,tailwind,bootstrap,nodejs,express,flask,spring,django,postgres,firebase,mongodb,sqlite,mysql,redis,nextjs,docker,git,github,linux" />
 
 ---
-
-
-
-
-
-
-
 **Concepts**
 
-<img src="https://img.shields.io/badge/OOP-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/MVC-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Structures-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/REST%20APIs-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/System%20Design-2F6FE4?style=for-the-badge" />
-
-
+<img src="https://img.shields.io/badge/OOP-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/MVC-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Structures-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/REST%20APIs-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/System%20Design-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Design%20Patterns-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Algorithms-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Database%20Design-2F6FE4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Software%20Architecture-2F6FE4?style=for-the-badge" />
 
 ---
 
