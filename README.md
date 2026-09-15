@@ -13,12 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kavith-palansuriya-5545b3280"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kavith-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2f6fe4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:samslogkavith@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </p>
 
