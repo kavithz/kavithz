@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavithz&label=Profile%20Views&color=2f6fe4&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </p>
 
