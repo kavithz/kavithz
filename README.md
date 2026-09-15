@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=java,python,js,dart,ts,kotlin,html,css,react,vite,flutter,figma,tailwind,bootstrap,nodejs,express,flask,spring,django,postgres,firebase,mongodb,sqlite,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=java,python,js,dart,ts,kotlin,html,css,react,vite,flutter,figma,tailwind,bootstrap,nodejs,express,flask,spring,django,postgres,firebase,mongodb,sqlite,mysql,redis,nextjs,docker,git,github,linux" />
 
 ---
 
