@@ -18,30 +18,14 @@
 
 ---
 
+<img src="https://skillicons.dev/icons?i=java,python,js,dart,ts,kotlin,html,css,react,vite,flutter,figma,tailwind,bootstrap,nodejs,express,flask,spring,django,postgres,firebase,mongodb,sqlite,mysql,redis" />
 
 ---
 
-### Tech Stack
 
-**Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,dart,ts,kotlin" />
 
-**Frontend**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,dart,ts,kotlin,html,css,react,vite,flutter,figma,tailwind,bootstrap,nodejs,express,flaskspring,django" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,django" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,sqlite,mysql,redis" />
-
-## Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker&perline=6" />
 
 
 **Concepts**
