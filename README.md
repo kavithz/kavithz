@@ -43,7 +43,7 @@ I'm currently focused on improving my software engineering skills and building p
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2F6FE4&center=true&vCenter=true&width=600&lines=Full-stack+web+development;React+%26+Node.js;REST+API+development+%26+integration;Database+design+%26+management;Software+architecture+%26+best+practices;Building+scalable+applications" alt="Currently Learning Typing SVG" />
 </p>
 
-- Full-stack web development
+- Full-stack web/mobile development
 - React & Node.js
 - REST API development and integration
 - Database design and management
